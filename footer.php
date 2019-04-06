@@ -9,15 +9,15 @@
                 <h3 class="footer-heading mb-4">Quick Menu</h3>
                 <ul class="list-unstyled float-left mr-5">
                     <li><a href="about.php">About Us</a></li>
-                    <li><a href="international-latest-news-healines.php">International</a></li>
-                    <li><a href="business-latest-news-healines.php">Business</a></li>
-                    <li><a href="entertainment-latest-news-healines.php">Entertainment</a></li>
+                    <li><a href="international-latest-news-headlines.php">International</a></li>
+                    <li><a href="business-latest-news-headlines.php">Business</a></li>
+                    <li><a href="entertainment-latest-news-headlines.php">Entertainment</a></li>
                 </ul>
                 <ul class="list-unstyled float-left">
-                    <li><a href="health-latest-news-healines.php">Health</a></li>
-                    <li><a href="science-latest-news-healines.php">Science</a></li>
-                    <li><a href="sports-latest-news-healines.php">Sports</a></li>
-                    <li><a href="technology-latest-news-healines.php">Technology</a></li>
+                    <li><a href="health-latest-news-headlines.php">Health</a></li>
+                    <li><a href="science-latest-news-headlines.php">Science</a></li>
+                    <li><a href="sports-latest-news-headlines.php">Sports</a></li>
+                    <li><a href="technology-latest-news-headlines.php">Technology</a></li>
                 </ul>
             </div>
             <div class="col-md-4">
